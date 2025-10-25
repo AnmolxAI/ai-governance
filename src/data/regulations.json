@@ -1,0 +1,212 @@
+[
+    {
+      "id": "fr-2016-10-07",
+      "date": "2016-10-07",
+      "jurisdiction": "France (Europe)",
+      "region": "France",
+      "title": "Loi pour une République numérique (\"Digital Republic Law\")",
+      "status": "Enacted",
+      "industry": "General",
+      "notes": "Includes requirements on algorithmic transparency (e.g. explainability in public algorithms)."
+    },
+    {
+      "id": "eu-2018-11-07",
+      "date": "2018-11-07",
+      "jurisdiction": "European Union",
+      "region": "European Union",
+      "title": "General Data Protection Regulation (GDPR)",
+      "status": "Enacted",
+      "industry": "Privacy",
+      "notes": "EU data protection law with implications for AI (data fairness, automated decision-making rules)."
+    },
+    {
+      "id": "us-2019-02-14",
+      "date": "2019-02-14",
+      "jurisdiction": "United States",
+      "region": "United States",
+      "title": "Executive Order 13859 (\"American AI Initiative\")",
+      "status": "Enacted",
+      "industry": "R&D",
+      "notes": "Trump EO directing federal AI strategy and coordination across agencies."
+    },
+    {
+      "id": "oecd-2019-05-22",
+      "date": "2019-05-22",
+      "jurisdiction": "OECD (international)",
+      "region": "International",
+      "title": "OECD AI Principles",
+      "status": "Adopted",
+      "industry": "General",
+      "notes": "Council Recommendation on AI (47 countries) encouraging trustworthy AI."
+    },
+    {
+      "id": "us-2020-12-27",
+      "date": "2020-12-27",
+      "jurisdiction": "United States",
+      "region": "United States",
+      "title": "National Artificial Intelligence Initiative Act",
+      "status": "Enacted",
+      "industry": "R&D",
+      "notes": "Law establishing a coordinated federal AI R&D and governance program."
+    },
+    {
+      "id": "eu-2021-04-21",
+      "date": "2021-04-21",
+      "jurisdiction": "European Union",
+      "region": "European Union",
+      "title": "EU Artificial Intelligence Act (proposal)",
+      "status": "Proposed",
+      "industry": "General",
+      "notes": "European Commission unveils first comprehensive AI regulation."
+    },
+    {
+      "id": "unesco-2021-11-23",
+      "date": "2021-11-23",
+      "jurisdiction": "UNESCO (international)",
+      "region": "International",
+      "title": "Recommendation on Ethics of Artificial Intelligence",
+      "status": "Adopted",
+      "industry": "General",
+      "notes": "First global AI ethics standard (193 Member States)."
+    },
+    {
+      "id": "us-nyc-2021-12-11",
+      "date": "2021-12-11",
+      "jurisdiction": "United States (New York City)",
+      "region": "United States",
+      "title": "NYC Local Law 144 (AI Hiring Tool Audit)",
+      "status": "Enacted",
+      "industry": "Workplace",
+      "notes": "City law requiring bias audits of automated employment decision tools (AEDTs)."
+    },
+    {
+      "id": "us-ca-2022-08-01",
+      "date": "2022-08-01",
+      "jurisdiction": "United States (California)",
+      "region": "United States",
+      "title": "California Privacy Rights Act (CPRA)",
+      "status": "Enacted",
+      "industry": "Privacy",
+      "notes": "State privacy law (Jan 2023) includes enhanced oversight of automated decision-making."
+    },
+    {
+      "id": "cn-2022-10-01",
+      "date": "2022-10-01",
+      "jurisdiction": "China",
+      "region": "China",
+      "title": "Deep Synthesis (Deepfake) Management Regulations",
+      "status": "Enacted",
+      "industry": "Media / Consumer Protection",
+      "notes": "Impose self-assessment and disclosure requirements on online AI services. Bans harmful deepfake uses."
+    },
+    {
+      "id": "us-2023-10-30",
+      "date": "2023-10-30",
+      "jurisdiction": "United States",
+      "region": "United States",
+      "title": "Executive Order 14110 (\"Safe, Secure, and Trustworthy AI\")",
+      "status": "Enacted",
+      "industry": "General",
+      "notes": "Biden EO advancing coordinated US AI governance."
+    },
+    {
+      "id": "us-ut-2024-03-13",
+      "date": "2024-03-13",
+      "jurisdiction": "United States (Utah)",
+      "region": "United States",
+      "title": "Utah Artificial Intelligence Policy Act (H.B. 149)",
+      "status": "Enacted",
+      "industry": "Media / Consumer Protection",
+      "notes": "State law requiring disclosures on generative AI (effective May 1, 2024)."
+    },
+    {
+      "id": "eu-2024-03-13",
+      "date": "2024-03-13",
+      "jurisdiction": "European Union",
+      "region": "European Union",
+      "title": "EU AI Act passed by European Parliament",
+      "status": "Enacted (trilogue)",
+      "industry": "General",
+      "notes": "Parliament approval; Council approval followed (21 May 2024); in force 1 Aug 2024."
+    },
+    {
+      "id": "us-co-2024-05-17",
+      "date": "2024-05-17",
+      "jurisdiction": "United States (Colorado)",
+      "region": "United States",
+      "title": "Colorado Artificial Intelligence Act (SB24-205)",
+      "status": "Enacted",
+      "industry": "General",
+      "notes": "State AI consumer protection law (effective Feb 1, 2026)."
+    },
+    {
+      "id": "eu-2024-08-01",
+      "date": "2024-08-01",
+      "jurisdiction": "European Union",
+      "region": "European Union",
+      "title": "EU Artificial Intelligence Act (final adoption)",
+      "status": "Adopted",
+      "industry": "General",
+      "notes": "EU law regulating AI (all uses) by risk level; came into force 1 Aug 2024."
+    },
+    {
+      "id": "coe-2024-09-05",
+      "date": "2024-09-05",
+      "jurisdiction": "Council of Europe (international)",
+      "region": "International",
+      "title": "Framework Convention on AI (CETS 225)",
+      "status": "Opened",
+      "industry": "General",
+      "notes": "First international AI treaty opened for signature."
+    },
+    {
+      "id": "us-fda-2024-12-04",
+      "date": "2024-12-04",
+      "jurisdiction": "United States (FDA)",
+      "region": "United States",
+      "title": "FDA Final Guidance on AI-Enabled Medical Devices",
+      "status": "Issued",
+      "industry": "Healthcare",
+      "notes": "FDA guidance for \"predetermined change control plans\" in AI/ML medical device software."
+    },
+    {
+      "id": "us-2025-01-14",
+      "date": "2025-01-14",
+      "jurisdiction": "United States",
+      "region": "United States",
+      "title": "Executive Order 14141 (\"AI & Democratic Values\")",
+      "status": "Enacted",
+      "industry": "General",
+      "notes": "Biden EO on protecting democracy from AI risks (revoked 20 Jan 2025)."
+    },
+    {
+      "id": "jp-2025-05-28",
+      "date": "2025-05-28",
+      "jurisdiction": "Japan",
+      "region": "Japan",
+      "title": "Act on Promotion of R&D and Use of AI",
+      "status": "Enacted",
+      "industry": "R&D",
+      "notes": "Japan's first AI promotion law passed by Diet (soft-law framework)."
+    },
+    {
+      "id": "us-ny-2025-06-12",
+      "date": "2025-06-12",
+      "jurisdiction": "United States (New York)",
+      "region": "United States",
+      "title": "Stop Deepfakes Act (S. 6954A)",
+      "status": "Passed",
+      "industry": "Media / Consumer Protection",
+      "notes": "NY Senate bill passed requiring provenance data on AI-generated media (awaiting signature)."
+    },
+    {
+      "id": "us-tx-2025-06-22",
+      "date": "2025-06-22",
+      "jurisdiction": "United States (Texas)",
+      "region": "United States",
+      "title": "Responsible AI Governance Act (H.B. 140)",
+      "status": "Enacted",
+      "industry": "Data Governance",
+      "notes": "Texas AI law signed (effective Jan 1, 2026), covers biometric identifiers, bans AI social scoring."
+    }
+  ]
