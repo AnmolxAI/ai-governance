@@ -208,5 +208,375 @@
       "status": "Enacted",
       "industry": "Data Governance",
       "notes": "Texas AI law signed (effective Jan 1, 2026), covers biometric identifiers, bans AI social scoring."
-    }
+    },
+    {
+    "id": "us-1970-10-26",
+    "date": "1970-10-26",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "Fair Credit Reporting Act (FCRA)",
+    "status": "Enacted",
+    "industry": "Financial / Credit",
+    "notes": "Regulates consumer reporting agencies; accuracy, access, correction rights."
+  },
+  {
+    "id": "us-1974-08-21",
+    "date": "1974-08-21",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "Family Educational Rights and Privacy Act (FERPA)",
+    "status": "Enacted",
+    "industry": "Education",
+    "notes": "Student education records privacy; access/correction rights."
+  },
+  {
+    "id": "us-1974-12-31",
+    "date": "1974-12-31",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "Privacy Act of 1974",
+    "status": "Enacted",
+    "industry": "Government Records",
+    "notes": "Governs federal agencies’ collection/use of PII; access, amendment, and fair information practices."
+  },
+  {
+    "id": "us-1986-10-21",
+    "date": "1986-10-21",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "Electronic Communications Privacy Act (ECPA)",
+    "status": "Enacted",
+    "industry": "Electronic Communications",
+    "notes": "Wiretap Act + Stored Communications Act; access rules for electronic communications."
+  },
+  {
+    "id": "us-1988-11-05",
+    "date": "1988-11-05",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "Video Privacy Protection Act (VPPA)",
+    "status": "Enacted",
+    "industry": "Media",
+    "notes": "Limits disclosure of video-viewing records."
+  },
+  {
+    "id": "us-1991-12-20",
+    "date": "1991-12-20",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "Telephone Consumer Protection Act (TCPA)",
+    "status": "Enacted",
+    "industry": "Telemarketing / Communications",
+    "notes": "Consent/opt-out rules for calls, texts, faxes; Do-Not-Call."
+  },
+  {
+    "id": "us-1994-09-13",
+    "date": "1994-09-13",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "Driver's Privacy Protection Act (DPPA)",
+    "status": "Enacted",
+    "industry": "Government Records / DMV",
+    "notes": "Restricts disclosure of personal data from state DMV records."
+  },
+  {
+    "id": "us-1996-08-21",
+    "date": "1996-08-21",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "Health Insurance Portability and Accountability Act (HIPAA)",
+    "status": "Enacted",
+    "industry": "Healthcare",
+    "notes": "Privacy/Security Rules for protected health information (PHI)."
+  },
+  {
+    "id": "us-1998-10-21",
+    "date": "1998-10-21",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "Children’s Online Privacy Protection Act (COPPA)",
+    "status": "Enacted",
+    "industry": "Children / Online Services",
+    "notes": "Parental notice/consent for collecting data from children under 13."
+  },
+  {
+    "id": "us-1999-11-12",
+    "date": "1999-11-12",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "Gramm–Leach–Bliley Act (GLBA)",
+    "status": "Enacted",
+    "industry": "Financial",
+    "notes": "Privacy Rule, Safeguards Rule; regulates financial institutions’ handling of nonpublic personal information."
+  },
+  {
+    "id": "us-2003-12-16",
+    "date": "2003-12-16",
+    "jurisdiction": "United States",
+    "region": "United States",
+    "title": "CAN-SPAM Act",
+    "status": "Enacted",
+    "industry": "Email Marketing",
+    "notes": "Commercial email rules; opt-out and identification requirements."
+  },
+  {
+    "id": "us-ca-2018-06-28",
+    "date": "2018-06-28",
+    "jurisdiction": "United States (California)",
+    "region": "United States",
+    "title": "California Consumer Privacy Act (CCPA) (AB 375)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "First comprehensive U.S. state privacy law; effective Jan 1, 2020."
+  },
+  {
+    "id": "us-ca-2020-11-03",
+    "date": "2020-11-03",
+    "jurisdiction": "United States (California)",
+    "region": "United States",
+    "title": "California Privacy Rights Act (CPRA) (Prop 24)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Amends/expands CCPA; creates CPPA; effective Jan 1, 2023 (with lookback to Jan 1, 2022)."
+  },
+  {
+    "id": "us-va-2021-03-02",
+    "date": "2021-03-02",
+    "jurisdiction": "United States (Virginia)",
+    "region": "United States",
+    "title": "Virginia Consumer Data Protection Act (VCDPA)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Comprehensive consumer data privacy law; effective Jan 1, 2023."
+  },
+  {
+    "id": "us-co-2021-07-07",
+    "date": "2021-07-07",
+    "jurisdiction": "United States (Colorado)",
+    "region": "United States",
+    "title": "Colorado Privacy Act (SB21-190)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Comprehensive privacy law; effective July 1, 2023."
+  },
+  {
+    "id": "us-ct-2022-05-10",
+    "date": "2022-05-10",
+    "jurisdiction": "United States (Connecticut)",
+    "region": "United States",
+    "title": "Connecticut Data Privacy Act (CTDPA) (SB 6)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Comprehensive privacy law; effective July 1, 2023."
+  },
+  {
+    "id": "us-ut-2022-03-24",
+    "date": "2022-03-24",
+    "jurisdiction": "United States (Utah)",
+    "region": "United States",
+    "title": "Utah Consumer Privacy Act (UCPA) (SB 227)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective Dec 31, 2023."
+  },
+  {
+    "id": "us-nv-2019-05-29",
+    "date": "2019-05-29",
+    "jurisdiction": "United States (Nevada)",
+    "region": "United States",
+    "title": "Nevada SB 220 (Online Privacy Sale Opt-Out)",
+    "status": "Enacted",
+    "industry": "Online Services",
+    "notes": "Opt-out of “sale” of certain personal information; effective Oct 1, 2019."
+  },
+  {
+    "id": "us-il-2008-10-03",
+    "date": "2008-10-03",
+    "jurisdiction": "United States (Illinois)",
+    "region": "United States",
+    "title": "Biometric Information Privacy Act (BIPA)",
+    "status": "Enacted",
+    "industry": "Biometrics",
+    "notes": "Notice/consent, retention policy; private right of action (amended in 2024)."
+  },
+  {
+    "id": "us-wa-2023-04-27",
+    "date": "2023-04-27",
+    "jurisdiction": "United States (Washington)",
+    "region": "United States",
+    "title": "My Health My Data Act (HB 1155)",
+    "status": "Enacted",
+    "industry": "Health (Non-HIPAA Consumer Health Data)",
+    "notes": "Covers consumer health data outside HIPAA; key provisions effective 2024 (later for small businesses)."
+  },
+  {
+    "id": "us-fl-2023-06-06",
+    "date": "2023-06-06",
+    "jurisdiction": "United States (Florida)",
+    "region": "United States",
+    "title": "Florida Digital Bill of Rights (SB 262)",
+    "status": "Enacted",
+    "industry": "General / Children",
+    "notes": "Consumer rights + platform duties; various effective dates from July 2023."
+  },
+  {
+    "id": "us-or-2023-07-18",
+    "date": "2023-07-18",
+    "jurisdiction": "United States (Oregon)",
+    "region": "United States",
+    "title": "Oregon Consumer Privacy Act (OCPA)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective July 1, 2024 (later for certain nonprofits)."
+  },
+  {
+    "id": "us-de-2023-09-11",
+    "date": "2023-09-11",
+    "jurisdiction": "United States (Delaware)",
+    "region": "United States",
+    "title": "Delaware Personal Data Privacy Act",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Comprehensive privacy law; staged effective dates beginning 2025."
+  },
+  {
+    "id": "us-ia-2023-03-28",
+    "date": "2023-03-28",
+    "jurisdiction": "United States (Iowa)",
+    "region": "United States",
+    "title": "Iowa Consumer Data Protection Act (SF 262)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective Jan 1, 2025."
+  },
+  {
+    "id": "us-in-2023-05-01",
+    "date": "2023-05-01",
+    "jurisdiction": "United States (Indiana)",
+    "region": "United States",
+    "title": "Indiana Consumer Data Protection Act (INCDPA)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective Jan 1, 2026."
+  },
+  {
+    "id": "us-tn-2023-05-11",
+    "date": "2023-05-11",
+    "jurisdiction": "United States (Tennessee)",
+    "region": "United States",
+    "title": "Tennessee Information Protection Act (TIPA)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Comprehensive privacy law; effective July 1, 2025."
+  },
+  {
+    "id": "us-mt-2023-05-19",
+    "date": "2023-05-19",
+    "jurisdiction": "United States (Montana)",
+    "region": "United States",
+    "title": "Montana Consumer Data Privacy Act",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective Oct 1, 2024 (some provisions/assessments 2025+)."
+  },
+  {
+    "id": "us-tx-2023-06-18",
+    "date": "2023-06-18",
+    "jurisdiction": "United States (Texas)",
+    "region": "United States",
+    "title": "Texas Data Privacy and Security Act (TDPSA)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective July 1, 2024; additional opt-out agent provisions phased in 2025."
+  },
+  {
+    "id": "us-nj-2024-01-16",
+    "date": "2024-01-16",
+    "jurisdiction": "United States (New Jersey)",
+    "region": "United States",
+    "title": "New Jersey Data Privacy Act (SB 332)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective Jan 15, 2025."
+  },
+  {
+    "id": "us-md-2024-05-09",
+    "date": "2024-05-09",
+    "jurisdiction": "United States (Maryland)",
+    "region": "United States",
+    "title": "Maryland Online Data Privacy Act (MODPA)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective Nov 1, 2025."
+  },
+  {
+    "id": "us-mn-2024-05-24",
+    "date": "2024-05-24",
+    "jurisdiction": "United States (Minnesota)",
+    "region": "United States",
+    "title": "Minnesota Consumer Data Privacy Act (MCDPA)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective July 31, 2025 (staggered for some sectors)."
+  },
+  {
+    "id": "us-ky-2024-04-04",
+    "date": "2024-04-04",
+    "jurisdiction": "United States (Kentucky)",
+    "region": "United States",
+    "title": "Kentucky Consumer Data Protection Act",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective Jan 1, 2026."
+  },
+  {
+    "id": "us-nh-2024-01-18",
+    "date": "2024-01-18",
+    "jurisdiction": "United States (New Hampshire)",
+    "region": "United States",
+    "title": "New Hampshire Privacy Act (NHPA)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Comprehensive privacy law (effective 2025)."
+  },
+  {
+    "id": "us-ne-2024-04-17",
+    "date": "2024-04-17",
+    "jurisdiction": "United States (Nebraska)",
+    "region": "United States",
+    "title": "Nebraska Data Privacy Act",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective Apr 17, 2024; cure period ends Dec 31, 2025."
+  },
+  {
+    "id": "us-ri-2024-06-19",
+    "date": "2024-06-19",
+    "jurisdiction": "United States (Rhode Island)",
+    "region": "United States",
+    "title": "Rhode Island Data Privacy & Protection Act",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Effective Jan 1, 2026."
+  },
+  {
+    "id": "us-ca-2022-09-15",
+    "date": "2022-09-15",
+    "jurisdiction": "United States (California)",
+    "region": "United States",
+    "title": "California Age-Appropriate Design Code (AB 2273)",
+    "status": "Enacted (parts enjoined)",
+    "industry": "Children / Online Services",
+    "notes": "Signed Sept 15, 2022; enforcement enjoined by federal courts pending litigation."
+  },
+  {
+    "id": "us-ca-2023-10-10",
+    "date": "2023-10-10",
+    "jurisdiction": "United States (California)",
+    "region": "United States",
+    "title": "California Delete Act (SB 362) – Data Broker Registry & Deletion Mechanism",
+    "status": "Enacted",
+    "industry": "Data Brokers",
+    "notes": "Expands data-broker registry; creates one-stop deletion mechanism (DROP) with phased rollout (2026+)."
+  }
   ]
