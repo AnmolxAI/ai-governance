@@ -578,5 +578,35 @@
     "status": "Enacted",
     "industry": "Data Brokers",
     "notes": "Expands data-broker registry; creates one-stop deletion mechanism (DROP) with phased rollout (2026+)."
+  },
+    {
+    "id": "au-1988-12-15",
+    "date": "1988-12-15",
+    "jurisdiction": "Australia",
+    "region": "Australia",
+    "title": "Privacy Act 1988 (Cth)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Federal law regulating the handling of personal information by Australian Government agencies and private sector organisations (APP entities). :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "id": "au-2018-02-22",
+    "date": "2018-02-22",
+    "jurisdiction": "Australia",
+    "region": "Australia",
+    "title": "Notifiable Data Breaches (NDB) scheme (under Privacy Act 1988)",
+    "status": "Enacted",
+    "industry": "General",
+    "notes": "Introduced under the Privacy Act; requires entities to notify individuals & the Office of the Australian Information Commissioner (OAIC) when a data breach is likely to cause serious harm. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "id": "au-2010-11-04",
+    "date": "2010-11-04",
+    "jurisdiction": "Australia",
+    "region": "Australia",
+    "title": "Competition and Consumer Act 2010 – Consumer Data Right privacy safeguards",
+    "status": "Enacted",
+    "industry": "General / Consumer Data",
+    "notes": "Under the Competition and Consumer Act 2010, the Consumer Data Right (CDR) includes legal privacy & security safeguards for consumer data. :contentReference[oaicite:5]{index=5}"
   }
   ]
