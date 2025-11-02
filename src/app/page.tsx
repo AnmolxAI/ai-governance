@@ -2,6 +2,7 @@ import regulationsData from '@/data/regulations.json';
 import { RegulationEntry, Region, Industry } from '@/data/types';
 import Timeline from '@/components/Timeline';
 import Footer from '@/components/Footer';
+import ThemeToggle from '@/components/ThemeToggle';
 
 /**
  * Reads, sorts, and prepares regulation data on the server.
@@ -27,7 +28,10 @@ export default async function HomePage() {
   return (
     <main className="container">
       <header className="page-header">
-        <h1>Global AI Governance Chronology</h1>
+        <div className="header-top">
+          <h1>Global AI Governance Chronology</h1>
+          <ThemeToggle />
+        </div>
         <p>
           A filterable timeline of AI-related laws, regulations, and policies
           worldwide.
