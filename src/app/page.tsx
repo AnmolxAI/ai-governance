@@ -1,6 +1,7 @@
 import regulationsData from '@/data/regulations.json';
 import { RegulationEntry, Region, Industry } from '@/data/types';
 import Timeline from '@/components/Timeline';
+import Footer from '@/components/Footer';
 
 /**
  * Reads, sorts, and prepares regulation data on the server.
@@ -37,6 +38,7 @@ export default async function HomePage() {
         regions={regions}
         industries={industries}
       />
+      <Footer />
     </main>
   );
 }

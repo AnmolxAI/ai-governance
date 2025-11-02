@@ -241,3 +241,46 @@ a {
   color: #155724;
   border-color: #c3e6cb;
 }
+
+/* Footer Styles */
+.footer {
+  background-color: #000000;
+  padding: 1.5rem 1rem;
+  margin-top: 4rem;
+  text-align: center;
+  font-family: 'Monaco', 'Menlo', 'Courier New', monospace;
+}
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.footer-label {
+  color: #a0a0a0;
+}
+
+.footer-link {
+  color: #00ff00;
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.footer-link:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+.footer-separator {
+  color: #a0a0a0;
+  margin: 0 0.25rem;
+}
+
+@media (max-width: 640px) {
+  .footer-content {
+    font-size: 0.9rem;
+  }
+}
