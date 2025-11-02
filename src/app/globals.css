@@ -97,20 +97,84 @@ a {
   color: var(--text-light);
 }
 
-.substack-subscription {
-  margin-top: 1.5rem;
+.page-header .author {
+  font-size: 0.95rem;
+  color: var(--text-light);
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+.substack-subscription-wrapper {
+  margin-top: 2rem;
   margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.subscribe-text {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.substack-subscription {
   width: 100%;
   max-width: 480px;
+  display: flex;
+  justify-content: center;
+  background-color: var(--card-bg);
+  border-radius: var(--border-radius);
+  padding: 0;
+  box-shadow: 0 2px 8px var(--shadow-color);
+  border: 1px solid var(--border-color);
+  overflow: hidden;
 }
 
-.substack-subscription iframe {
+.substack-iframe {
   width: 100%;
   border-radius: var(--border-radius);
+  border: none;
+  background-color: #ffffff;
+  display: block;
 }
 
-[data-theme='dark'] .substack-subscription iframe {
+/* Dark mode styling for iframe container */
+[data-theme='dark'] .substack-subscription {
+  background-color: var(--card-bg);
   border-color: var(--border-color);
+}
+
+[data-theme='dark'] .substack-iframe {
+  /* Apply a subtle filter to make white iframe content more suitable for dark theme */
+  filter: brightness(0.85) contrast(1.05);
+  /* Alternative: invert colors (more dramatic) */
+  /* filter: invert(1) hue-rotate(180deg); */
+}
+
+/* Ensure the iframe blends with the theme */
+.substack-subscription-wrapper {
+  position: relative;
+}
+
+.timeline-section {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.timeline-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: var(--heading-color);
+}
+
+.timeline-section p {
+  font-size: 1.1rem;
+  color: var(--text-light);
 }
 
 .timeline-container {

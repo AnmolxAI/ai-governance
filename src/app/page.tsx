@@ -30,15 +30,24 @@ export default async function HomePage() {
     <main className="container">
       <header className="page-header">
         <div className="header-top">
-          <h1>Global AI Governance Chronology</h1>
+          <h1>AI Governance Today</h1>
           <ThemeToggle />
         </div>
         <p>
-          A filterable timeline of AI-related laws, regulations, and policies
-          worldwide.
+          Making sense of AI policy, one week at a time. Breaking down new
+          regulations, explaining governance frameworks, and tracking the global
+          effort to govern artificial intelligence responsibly.
         </p>
+        <p className="author">By Anmol Kumar</p>
         <SubstackSubscription />
       </header>
+      <section className="timeline-section">
+        <h2>Global AI Governance RegulationChronology</h2>
+        <p>
+          A filterable timeline of AI and privacy-related laws, regulations,
+          frameworks and policies worldwide.
+        </p>
+      </section>
       <Timeline
         regulations={sortedRegulations}
         regions={regions}
