@@ -244,11 +244,12 @@ a {
 
 /* Footer Styles */
 .footer {
-  background-color: #000000;
+  background-color: #ffffff;
   padding: 1.5rem 1rem;
   margin-top: 4rem;
   text-align: center;
   font-family: 'Monaco', 'Menlo', 'Courier New', monospace;
+  border-top: 1px solid var(--border-color);
 }
 
 .footer-content {
@@ -260,22 +261,22 @@ a {
 }
 
 .footer-label {
-  color: #a0a0a0;
+  color: #6c757d;
 }
 
 .footer-link {
-  color: #00ff00;
+  color: #212529;
   text-decoration: none;
-  transition: opacity 0.2s;
+  transition: color 0.2s;
 }
 
 .footer-link:hover {
-  opacity: 0.8;
+  color: var(--accent-blue);
   text-decoration: underline;
 }
 
 .footer-separator {
-  color: #a0a0a0;
+  color: #6c757d;
   margin: 0 0.25rem;
 }
 
