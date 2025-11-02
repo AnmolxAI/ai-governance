@@ -3,6 +3,7 @@ import { RegulationEntry, Region, Industry } from '@/data/types';
 import Timeline from '@/components/Timeline';
 import Footer from '@/components/Footer';
 import ThemeToggle from '@/components/ThemeToggle';
+import SubstackSubscription from '@/components/SubstackSubscription';
 
 /**
  * Reads, sorts, and prepares regulation data on the server.
@@ -36,6 +37,7 @@ export default async function HomePage() {
           A filterable timeline of AI-related laws, regulations, and policies
           worldwide.
         </p>
+        <SubstackSubscription />
       </header>
       <Timeline
         regulations={sortedRegulations}

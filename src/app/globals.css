@@ -97,6 +97,22 @@ a {
   color: var(--text-light);
 }
 
+.substack-subscription {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  max-width: 480px;
+}
+
+.substack-subscription iframe {
+  width: 100%;
+  border-radius: var(--border-radius);
+}
+
+[data-theme='dark'] .substack-subscription iframe {
+  border-color: var(--border-color);
+}
+
 .timeline-container {
   display: grid;
   grid-template-columns: 1fr;
