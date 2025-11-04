@@ -38,7 +38,6 @@ export default async function HomePage() {
           regulations, explaining governance frameworks, and tracking the global
           effort to govern artificial intelligence responsibly.
         </p>
-        <p className="author">By Anmol Kumar</p>
         <SubstackSubscription />
       </header>
       <section className="timeline-section">
