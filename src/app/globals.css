@@ -129,32 +129,16 @@ a {
 }
 
 .substack-iframe {
-  width: 100%;
-  border-radius: 0;
-  border: none;
-  background-color: transparent;
-  display: block;
-  /* Clip top and bottom to hide repeated title/description and branding */
-  clip-path: inset(140px 0 40px 0);
-  margin-top: -140px;
-  margin-bottom: -40px;
-  height: 320px;
-}
-
-/* Mask/hide Substack title and description at the top */
-.substack-subscription::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 145px;
-  background: linear-gradient(to bottom, var(--card-bg) 80%, transparent);
-  background-color: var(--card-bg);
-  z-index: 1;
-  pointer-events: none;
-  border-top-left-radius: var(--border-radius);
-  border-top-right-radius: var(--border-radius);
+  width: 100%;
+  border-radius: 0;
+  border: none;
+  background-color: transparent;
+  display: block;
+  /* Only clip the bottom 40px (the footer/branding) */
+  clip-path: inset(0 0 40px 0);
+  margin-top: 0; /* REMOVE TOP OFFSET */
+  margin-bottom: -40px;
+  height: 320px;
 }
 
 /* Mask/hide Substack branding at the bottom using overlay */
