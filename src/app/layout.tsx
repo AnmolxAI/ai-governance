@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: 'Global AI Governance Timeline',
   description: 'A filterable timeline of global AI regulations and policies.',
   icons: {
-    icon: '/public/aigt-logo.svg', 
+    icon: '/aigt-logo.svg', 
   },
 };
 
