@@ -134,10 +134,9 @@ a {
   border: none;
   background-color: transparent;
   display: block;
-  /* Only clip the bottom 40px (the footer/branding) */
-  clip-path: inset(0 0 40px 0);
-  margin-top: 0; /* REMOVE TOP OFFSET */
-  margin-bottom: -40px;
+  clip-path: inset(0 0 40px 0); 
+  margin-top: 0;
+  margin-bottom: -40px; 
   height: 320px;
 }
 
